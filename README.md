@@ -6,7 +6,7 @@ In this example we can observe that a minimal change introduced in the geometry,
 This phenomenon we can use in our final model to introduce variations in the shape with minimal changes over the basic geometry
 Using the same low poly component, we introduced minimal changes in the mesh to experiment the changes after the successive iterations.
 
-![alt text] (https://github.com/Abrkoura/Geometrical-Iterations-Software-I/blob/master/Subdivision%20strategy.png)
+![alt text](https://github.com/Abrkoura/Geometrical-Iterations-Software-I/blob/master/Subdivision%20strategy.png)
 
 Requirements: 
 
@@ -25,17 +25,14 @@ Getting Started:
 4.Generat surface aggregations
 
 Workflow:![alt text](https://github.com/Abrkoura/Geometrical-Iterations-Software-I/blob/master/1.jpg)
-![alt text] (https://github.com/Abrkoura/Geometrical-Iterations-Software-I/blob/master/2.jpg)
+![alt text](https://github.com/Abrkoura/Geometrical-Iterations-Software-I/blob/master/2.jpg)
 
-![alt text] (https://github.com/Abrkoura/Geometrical-Iterations-Software-I/blob/master/3.jpg)
+![alt text](https://github.com/Abrkoura/Geometrical-Iterations-Software-I/blob/master/3.jpg)
 
-![alt text] (https://github.com/Abrkoura/Geometrical-Iterations-Software-I/blob/master/4.jpg)
+![alt text](https://github.com/Abrkoura/Geometrical-Iterations-Software-I/blob/master/4.jpg)
 
-![alt text] (https://github.com/Abrkoura/Geometrical-Iterations-Software-I/blob/master/5.jpg)
+![alt text](https://github.com/Abrkoura/Geometrical-Iterations-Software-I/blob/master/6.jpg)
 
-![alt text] (https://github.com/Abrkoura/Geometrical-Iterations-Software-I/blob/master/6.jpg)
-
-![alt text] (https://github.com/Abrkoura/Geometrical-Iterations-Software-I/blob/master/IaaC-MRAC2019_presentation_template.jpg)
 
 References:https://theverymany.com/project-gallery
 
