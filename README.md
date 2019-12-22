@@ -22,9 +22,11 @@ Getting Started:
 
 4.Generat surface aggregations
 
-Workflow: ![alt text](
+Workflow:![alt text](https://github.com/Abrkoura/Geometrical-Iterations-Software-I/blob/master/1.jpg)
 
-References:
+References:https://theverymany.com/project-gallery
+
+
 
 
 Credits:Geometrical Iterations is a project of IAAC, Institute for Advanced Architecture of Catalonia developed at Master in Robotics and Advanced Construction in 2019, Students: Abdelrahman Koura Beril Serbes Isabel Cousseau, Faculty :Alessio Erioli, Faculty Assistant: Eugenio Bettucchi.
