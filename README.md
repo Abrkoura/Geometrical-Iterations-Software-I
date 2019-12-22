@@ -16,15 +16,19 @@ Requirements:
 
 Getting Started: 
 
-1.Mesh divide by catmull clark
+1.Assign mesh 
 
-2.Creat twisted box for each surface
+2.Connect mesh to weavebird catmull clark component
 
-3.Add component to Box morph
+3.Creat twisted box for each surface
 
-4.Generat surface aggregations
+4.Add component to Box morph
+
+5.Generat surface aggregations
+
 
 Workflow:![alt text](https://github.com/Abrkoura/Geometrical-Iterations-Software-I/blob/master/1.jpg)
+
 ![alt text](https://github.com/Abrkoura/Geometrical-Iterations-Software-I/blob/master/2.jpg)
 
 ![alt text](https://github.com/Abrkoura/Geometrical-Iterations-Software-I/blob/master/3.jpg)
